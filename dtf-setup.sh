@@ -54,7 +54,7 @@ setup_git()
 clone()
 {
   if [ ! -d "$BARE_GIT_FOLDER" ]; then
-    git clone --bare https://github.qualcomm.com/dpassmor/dotfiles $BARE_GIT_FOLDER
+    git clone --bare https://github.com/danpassmore/dotfiles $BARE_GIT_FOLDER
   fi
 
   $ALIAS_EXPR checkout
