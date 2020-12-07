@@ -1,11 +1,12 @@
 # dtf-setup
-Script to setup dtf command (useful for version control of https://github.qualcomm.com/dpassmor/dotfiles)
+Script to setup dtf command (useful for version control of https://github.com/danpassmore/dotfiles)
+
 
 # install
 
 cd ~
 
-git clone https://github.qualcomm.com/dpassmor/dtf-setup
+git clone https://github.com/danpassmore/dtf-setup
 
 sh ~/dtf-setup/dtf-setup.sh
 
